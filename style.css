@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300;400;500;600;700&display=swap');
+
+body {
+    font-family: 'Quicksand', sans-serif;
+    background-image: url('https://cdn.dribbble.com/users/4279575/screenshots/15172726/media/5ab1a89af8aedba97f59be8564b3af82.gif');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    height: 100vh;
+}
+
+h1 {
+    font-size: 100px;
+    font-weight: 700;
+}
+
+h3 {
+    font-size: 50px;
+    font-weight: 700;
+}
